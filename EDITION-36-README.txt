@@ -1,0 +1,1 @@
+Edition 36, based on Edition 35. Removed the redundant pale membership CTA above the dark blue membership panel. Replaced dark blue panel heading and paragraph with exact copy from removed CTA. No other design or functional changes.

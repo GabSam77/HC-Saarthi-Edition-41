@@ -1,0 +1,1 @@
+Edition 33: streamlined Opportunities category hierarchy; removed Services property records link; updated HDFC Bank Group foundation wording and India largest residential real estate fund manager credential. All other functionality retained.

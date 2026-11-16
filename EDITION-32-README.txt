@@ -1,0 +1,1 @@
+Edition 32 — based directly on Edition 30. Adds 8–10 illustrative opportunity records under each non-developer category (10 each), retains 11 upcoming developer references, and clarifies the Hyderabad income-generating office micro-market as Nanakramguda (Financial District). All sample terms are fictional. No other Edition 30 functionality modified.

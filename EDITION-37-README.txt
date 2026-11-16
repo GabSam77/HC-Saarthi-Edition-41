@@ -1,0 +1,1 @@
+Edition 37: Open five-page platform, no login. Home redesigned. Portfolio, Research, Opportunities, Services unchanged. Membership matrix retained. No membership CTA. HDFC Capital Know More opens new tab. Demo and legal disclosures retained.

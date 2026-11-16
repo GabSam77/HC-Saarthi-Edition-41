@@ -1,0 +1,1 @@
+Edition 24: revised About HDFC Capital carousel copy only. Claims follow the supplied October 2026 HDFC Capital platform presentation. No changes to functionality or slide structure.

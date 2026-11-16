@@ -1,0 +1,14 @@
+@media(max-width:820px){
+ html{scroll-padding-top:calc(85px + env(safe-area-inset-top))}
+ body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right)}
+ header{top:0;padding-top:calc(12px + env(safe-area-inset-top));height:calc(72px + env(safe-area-inset-top))}
+ .iphone-install{display:block;width:100%;border:0;border-bottom:1px solid #dce0de;background:#f0f3f3;color:#102a3a;padding:10px 20px;font-size:14px;min-height:44px;text-align:center}
+ .iphone-install[hidden]{display:none}
+ button,.mf-button,.mf-back,.mf-segments button{min-height:44px}
+ input,select,textarea{font-size:16px!important}
+ dialog{overscroll-behavior:contain}
+ .mf-app{overflow-wrap:break-word}
+}
+@media(min-width:821px){.iphone-install{display:none}}
+@media(display-mode:standalone){.iphone-install{display:none!important}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}

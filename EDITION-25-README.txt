@@ -1,0 +1,1 @@
+Edition 25: HDFC Capital carousel reduced to slides 1 and 4; renamed remaining slide 2. Metrics include 118 investments, 54 exits, ~US$4bn commitments raised (excluding potential reinvestment), and source-described India’s largest residential real estate fund manager. As of 31 March 2026. Other functionality unchanged.

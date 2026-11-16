@@ -1,0 +1,1 @@
+Edition 34: adds an institutional-style disclosures and important notices footer to the public landing page and every authenticated workspace page. Summary visible; full notices expandable. No changes to functionality or opportunity data. Draft legal language requires HCAL Legal & Compliance approval before public release.

@@ -1,0 +1,1 @@
+Edition 35: membership enquiry preview form, About HDFC Capital moved last, provided HDFC Capital logo, alphabetic service directory, subtype-led submit request flow, illustrative progress and completion estimates, optional asset documents in add-asset wizard. All records remain browser local; no external submission.
